@@ -1,0 +1,8 @@
+{
+  "name": "ocean Wave Voice & Vision ",
+  "description": "An advanced AAC communication platform designed for maximum motor-skill accessibility and at-a-glance clarity.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
